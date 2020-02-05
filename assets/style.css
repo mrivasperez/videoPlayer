@@ -13,7 +13,7 @@ body {
     justify-content: center;
     max-height: 100vh;
     margin: 0;
-    background-color: #777;
+    background-color: rgb(105, 186, 240);
 }
 
 
@@ -72,11 +72,11 @@ h2 {
 }
 
 .controls .fa-play {
-    color: rgba(40, 167, 70, 0.5);
+    color: #20bf55;
 }
 
 .controls .fa-stop {
-    color: rgba(255, 0, 0, 0.5);
+   color: rgba(161, 21, 21, 0.7);    
 }
 
 .controls .fa-pause {
